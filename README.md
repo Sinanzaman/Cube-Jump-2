@@ -16,4 +16,4 @@ My first game in Unity3D
 
 # ZIP password: Sinanzaman
 
-- *** This project was made in Unity 2021.3.19f1 ***
+- This project was made in Unity 2021.3.19f1
