@@ -7,9 +7,9 @@
 
 ### **This project was made in Unity 2021.3.19f1**
 
-![unnamed (9)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/b062b2ca-735c-4d21-8d49-404bb6c782b6/fb_250x250.jpg?raw=1)
-![unnamed (8)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/c662be00-4e60-42a2-816e-f48e6b828682/fb_250x250.jpg?raw=1)
-![unnamed (1)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/8f8f3598-0723-4d61-9bd5-5f75b32abf88/fb_250x250.jpg?raw=1)
+![unnamed (9)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/b062b2ca-735c-4d21-8d49-404bb6c782b6/fb_50x50.jpg?raw=1)
+![unnamed (8)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/c662be00-4e60-42a2-816e-f48e6b828682/fb_50x50.jpg?raw=1)
+![unnamed (1)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/8f8f3598-0723-4d61-9bd5-5f75b32abf88/fb_50x50.jpg?raw=1)
 ![unnamed](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/a737c2f1-899a-4afd-ba06-c26aacf23dab/fb_250x250.jpg?raw=1)
 ![unnamed (7)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/689ecb80-275c-43c7-8b2c-69842c3a0fe6/fb_250x250.jpg?raw=1)
 ![unnamed (6)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/a5c018de-6d5a-4a37-a795-744886db6843/fb_250x250.jpg?raw=1)
