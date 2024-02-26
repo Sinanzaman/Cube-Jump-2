@@ -1,5 +1,5 @@
 # Cube-Jump-2
-##My first game in Unity3D
+My first game in Unity3D
 
 *** You can access the entire project using [This Link](https://drive.google.com/file/d/1WoHalS-KvUJMzu9VTft0m70qCjAY-n8D/view?usp=drive_link) ***
 
@@ -19,5 +19,3 @@
 ![unnamed (2)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/9defc918-11b4-4cce-a296-c6b73e8c81d5)
 ![unnamed (1)](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/9fcabdf6-de8a-4b13-a755-4f05fadf9a23)
 ![unnamed](https://github.com/Sinanzaman/Cube-Jump-2/assets/97964919/c45a740b-9e76-4770-ace8-fbf905449b03)
-*
-*
